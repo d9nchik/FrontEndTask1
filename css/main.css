@@ -1,11 +1,27 @@
-body{
+body {
     background-color: bisque;
     font-family: monospace;
     font-size: large;
 }
 
-button{
+button {
     background-color: azure;
     border: lightgreen 2px solid;
     padding: 5px;
+}
+
+footer {
+    padding: 5px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    margin-top: -200px;
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+    height: 60px;
+}
+
+footer a {
+    color: aquamarine;
 }
