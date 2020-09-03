@@ -10,10 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b22e576-ec84-4bcc-99a5-0f9ed80fa2c0" name="Default Changelist" comment="Useful files, that I forgot to provide.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3b22e576-ec84-4bcc-99a5-0f9ed80fa2c0" name="Default Changelist" comment="Now, my job contains link to my repo.">
+      <change beforePath="$PROJECT_DIR$/js/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599135990898</updated>
       <workItem from="1599135992000" duration="1202000" />
-      <workItem from="1599137237012" duration="6870000" />
+      <workItem from="1599137237012" duration="7568000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1599136506488</created>
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599142897558</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Now, my job contains link to my repo.">
+      <created>1599144182163</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144182163</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +158,8 @@
     <MESSAGE value="Enjoy job)" />
     <MESSAGE value="Some coments." />
     <MESSAGE value="Useful files, that I forgot to provide." />
-    <option name="LAST_COMMIT_MESSAGE" value="Useful files, that I forgot to provide." />
+    <MESSAGE value="Now, my job contains link to my repo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Now, my job contains link to my repo." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1148" y="490" width="327" height="207" key="Github.ShareDialog" timestamp="1599136898624">
@@ -164,9 +170,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="801" y="225" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1599137095223" />
-    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1599142898835">
+    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1599144183316">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1599142898835" />
+    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1599144183316" />
   </component>
 </project>
