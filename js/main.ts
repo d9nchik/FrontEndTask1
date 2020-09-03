@@ -33,6 +33,8 @@ function capitalize(word: string): string {
 console.log(capitalize('work'));
 console.log(capitalize(''));
 
+
+//Function, that controls DOM
 function show() {
     let text = (document.getElementById("text") as HTMLInputElement).value;
     console.log(text);
