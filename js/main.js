@@ -30,7 +30,6 @@ console.log(capitalize(''));
 //Function, that controls DOM
 function show() {
     var text = document.getElementById("text").value;
-    console.log(text);
     var textField = document.getElementById('insertHere');
     if (text && textField) {
         textField.textContent = text;
