@@ -16,8 +16,19 @@ function isDivided(mainNumber: number, divisor1: number, divisor2: number): bool
     return !(mainNumber % divisor1) && !(mainNumber % divisor2)
 }
 
-console.log(isDivided(-12, 2, -6))
-console.log(isDivided(-12, 2, -5))
+console.log(isDivided(-12, 2, -6));
+console.log(isDivided(-12, 2, -5));
 
-console.log(isDivided(45, 1, 6))
-console.log(isDivided(45, 5, 15))
+console.log(isDivided(45, 1, 6));
+console.log(isDivided(45, 5, 15));
+
+//function3
+function capitalize(word: string): string {
+    if (word) {
+        return word.charAt(0).toUpperCase() + word.slice(1);
+    }
+    return '';
+}
+
+console.log(capitalize('work'));
+console.log(capitalize(''));
