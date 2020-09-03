@@ -10,11 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b22e576-ec84-4bcc-99a5-0f9ed80fa2c0" name="Default Changelist" comment="Part3 has been done.">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3b22e576-ec84-4bcc-99a5-0f9ed80fa2c0" name="Default Changelist" comment="Part4 has been done, but need some CSS.">
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
         <option value="TypeScript File" />
         <option value="tsconfig.json" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,12 +43,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
@@ -61,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599135990898</updated>
       <workItem from="1599135992000" duration="1202000" />
-      <workItem from="1599137237012" duration="3820000" />
+      <workItem from="1599137237012" duration="4891000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1599136506488</created>
@@ -91,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599138206758</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Part4 has been done, but need some CSS.">
+      <created>1599141361655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599141361655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +128,8 @@
     <MESSAGE value="Part1 has been done." />
     <MESSAGE value="Part2 has been done." />
     <MESSAGE value="Part3 has been done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Part3 has been done." />
+    <MESSAGE value="Part4 has been done, but need some CSS." />
+    <option name="LAST_COMMIT_MESSAGE" value="Part4 has been done, but need some CSS." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1148" y="490" width="327" height="207" key="Github.ShareDialog" timestamp="1599136898624">
@@ -130,9 +140,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="801" y="225" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1599137095223" />
-    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1599138207839">
+    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1599141363004">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1599138207839" />
+    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1599141363004" />
   </component>
 </project>

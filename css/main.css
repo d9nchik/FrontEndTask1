@@ -1,0 +1,11 @@
+body{
+    background-color: bisque;
+    font-family: monospace;
+    font-size: large;
+}
+
+button{
+    background-color: azure;
+    border: lightgreen 2px solid;
+    padding: 5px;
+}
