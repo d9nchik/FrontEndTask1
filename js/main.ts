@@ -10,3 +10,14 @@ function range(n: number): number[] {
 console.log(range(10))
 console.log(range(-10))
 console.log(range(0))
+
+//function 2
+function isDivided(mainNumber: number, divisor1: number, divisor2: number): boolean {
+    return !(mainNumber % divisor1) && !(mainNumber % divisor2)
+}
+
+console.log(isDivided(-12, 2, -6))
+console.log(isDivided(-12, 2, -5))
+
+console.log(isDivided(45, 1, 6))
+console.log(isDivided(45, 5, 15))
