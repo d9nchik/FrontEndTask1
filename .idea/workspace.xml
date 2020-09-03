@@ -10,8 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b22e576-ec84-4bcc-99a5-0f9ed80fa2c0" name="Default Changelist" comment="Part2 has been done.">
+    <list default="true" id="3b22e576-ec84-4bcc-99a5-0f9ed80fa2c0" name="Default Changelist" comment="Part3 has been done.">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
       <list>
         <option value="TypeScript File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -36,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -56,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599135990898</updated>
       <workItem from="1599135992000" duration="1202000" />
-      <workItem from="1599137237012" duration="881000" />
+      <workItem from="1599137237012" duration="3820000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1599136506488</created>
@@ -79,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599137845825</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Part3 has been done.">
+      <created>1599138206758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599138206758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +118,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Part1 has been done." />
     <MESSAGE value="Part2 has been done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Part2 has been done." />
+    <MESSAGE value="Part3 has been done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Part3 has been done." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1148" y="490" width="327" height="207" key="Github.ShareDialog" timestamp="1599136898624">
@@ -117,9 +130,9 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="801" y="225" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1599137095223" />
-    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1599137846937">
+    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1599138207839">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1599137846937" />
+    <state x="709" y="249" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1599138207839" />
   </component>
 </project>
